@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @a2mus
-- 👀 I’m interested in gis, pyqgis, qgis 
-- 🌱 I’m currently learning gis, pyqgis, qgis
-- 💞️ I’m looking to collaborate on gis, pyqgis, qgis
+- 👀 I’m interested in gis, pyqgis, qgis ,ai, and fine-tuning llms
+- 🌱 I’m currently learning gis, pyqgis, qgis, ai, and fine-tuning llms
+- 💞️ I’m looking to collaborate on gis, pyqgis, qgis, ai, and fine-tuning llms
 - 📫 How to reach me ...
 
 <!---
